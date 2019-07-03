@@ -15,6 +15,7 @@ public class gitClase {
     public gitClase(){
         String nada="";
     }
+    //bull
     
     public void hola(){
         //escribir hola
