@@ -18,6 +18,7 @@ public class Pruebagit1 {
         // TODO code application logic here
         gitClase f = new gitClase();
         f.hola();
+        f.accion();
     }
     
 }

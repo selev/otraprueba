@@ -20,4 +20,8 @@ public class gitClase {
         //escribir hola
     }
     
+    public void accion(){
+        //hacer algo
+    }
+    
 }
