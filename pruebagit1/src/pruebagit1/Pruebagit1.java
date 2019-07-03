@@ -17,6 +17,7 @@ public class Pruebagit1 {
     public static void main(String[] args) {
         // TODO code application logic here
         gitClase f = new gitClase();
+        f.hola();
     }
     
 }
